@@ -347,29 +347,7 @@ The system includes evaluation for:
    - Hallucination rate
    - Response latency
 
-## Demo Video Script (5-10 minutes)
 
-1. **Introduction** (1 min)
-   - Problem statement: Analyzing enterprise documents at scale
-   - Solution overview
-
-2. **Architecture Walkthrough** (2 min)
-   - Show architecture diagram
-   - Explain each component
-
-3. **Live Demo** (4-5 min)
-   - Ingest sample PDFs
-   - Run queries showing:
-     - Table extraction
-     - Hybrid retrieval
-     - Citation generation
-     - Risk flag detection
-   - Show JSON output
-
-4. **Design Decisions** (2 min)
-   - Chunking strategy for tables
-   - Hallucination prevention
-   - Scaling considerations
 
 ## Future Enhancements
 
