@@ -1,0 +1,53 @@
+# Environment and secrets
+.env
+*.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+logs/
+*.log
+
+# ChromaDB local data
+chroma_data/
+.chroma/
+
+# Large files and outputs (optional - uncomment if needed)
+# outputs/
+# data/sample_documents/*.pdf
+
+# Temporary files
+*.tmp
+*.temp
+*.bak

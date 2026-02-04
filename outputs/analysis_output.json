@@ -1,0 +1,177 @@
+{
+  "query": "What are the main AI techniques used for early autism diagnosis?",
+  "summary": "Artificial intelligence (AI) techniques used for early autism diagnosis include machine learning (ML) models, deep learning (DL), and artificial neural networks (ANNs) [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 1, 2, 3].\n\nSpecific techniques mentioned are:\n*   **Multiclass decision forest algorithm**: Employed by Choi et al. to classify children with different neurodevelopmental conditions, including ASD and PDD-NOS, using ADI-R test data [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 11].\n*   **Artificial Neural Network (ANN)**: Used by Abdulhay et al. for classifying ASD from neurotypical children based on resting-state EEG data [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 11]. ANNs have also been used for classifying 3D kinematic gait features and raw motion data from a drag and drop task [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7].\n*   **Support Vector Machines (SVMs)**: Demonstrated good accuracy in diagnosing ASD and used to identify microbial predictors from microbiome composition [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 2, 7].\n*   **k-Nearest Neighbors (KNN)**: Also shown to have good accuracy in ASD diagnosis [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 2].\n*   **Convolutional Neural Networks (CNN)**: Applied to facial images for early stage detection of ASD [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7].\n*   **Random Forest (RF)**: Used with eye-tracking data to identify distinct eye movement patterns, with metagenomic sequencing data of gut microbiota, and with microbiome composition [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7].\n*   **Multilayer Perceptron (MLP)**: Used with facial images for early stage detection [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7].\n*   **Gradient Boosting Machine (GBM)**: Applied to facial images for early stage detection [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7].\n*   **AdaBoost (AB)**: Used with facial images for early stage detection [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7].\n*   **Bidirectional Encoder Representations from Transformers (BERT)**: Employed to predict behavioral traits in individuals with ASD through text-based data analysis [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7].\n*   **EKNN (hybrid combining KNN, NB, and COA)**: Used with blood tests to enhance accuracy and speed in detection [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7].\n\nThese techniques analyze various data modalities, including visual (facial, home videos, eye-tracking), motor function, behavioral, microbiome, genetic, and neuroimaging data [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 1].\n\n**Key findings:**\n*   AI models show promise in reducing human error and improving diagnostic accuracy in ASD research [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 2].\n*   ML models can analyze complex datasets to identify key features associated with ASD [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 2].\n*   AI-driven approaches have demonstrated high accuracy in classifying ASD using diverse data types [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 1].\n\n**Numerical data (with sources):**\n*   Choi et al.'s decision forest model achieved an accuracy of **81%** in predicting PDD-NOS when using 4 or 8 decision trees [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 11].\n*   Abdulhay et al.'s ANN classification method achieved an overall accuracy of **95.90%**, with a sensitivity of **96.72%** and specificity of **95.08%**, using resting-state EEG data [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 11].\n*   Meng et al., 2023, used RF with eye-tracking data, achieving **73%** accuracy [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7].\n*   Rabbi et al., 2021, used CNN with facial images, achieving **92.31%** accuracy; MLP achieved **71.66%**; RF achieved **72.78%**; GBM achieved **75.23%**; AB achieved **74.56%** [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7].\n*   Hasan et al., 2017, used ANN with 3D kinematic gait features, achieving **88.3%** (Kinematic-Raw), **90.0%** (Kinematic-TMWU), and **91.7%** (Kinematic-SWDA) accuracy [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7].\n*   Lu and Perkowski, 2021, used CNN (VGG16) with 2D facial images, achieving **95%** accuracy [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7].\n*   Pal and Rubini, 2024, used BERT with TASD Dataset Behavioral Traits and Features, achieving **88%** accuracy [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7].\n*   Luongo et al., 2024, used ANN with raw motion data, achieving **90%** accuracy (2 features) and **76%** (4 features) [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7].\n*   Wang and Fu, 2023, used RF with metagenomic sequencing data of gut microbiota, achieving **67%** (Moscow cohort), **97%** (Shenzhen cohort), and **80%** (combined) accuracy [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7].\n*   Rabie and Saleh, 2023, used EKNN with blood tests, achieving **93%** accuracy [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7].\n*   Olaguez-Gonzalez et al., 2023, used SVM with microbiome composition, achieving **90%** accuracy; ANN achieved **80%**; RF achieved **90%** [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7].\n\n**Risk flags (if any):**\n*   Challenges remain related to data quality, privacy, ethics, and clinical integration of AI tools [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 1].\n*   Reliance on behavioral observation data can be subjective and prone to inconsistencies [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 3].\n*   Further research is needed to refine AI models and ensure their validity and reliability in clinical settings, especially for behavioral assessments [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 3].\n\n**Confidence level:**\n5/5",
+  "key_findings": [
+    {
+      "finding": "**Multiclass decision forest algorithm**: Employed by Choi et al. to classify children with different neurodevelopmental conditions, including ASD and PDD-NOS, using ADI-R test data [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 11].",
+      "sources": [
+        "The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 11"
+      ]
+    },
+    {
+      "finding": "**Artificial Neural Network (ANN)**: Used by Abdulhay et al. for classifying ASD from neurotypical children based on resting-state EEG data [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 11]. ANNs have also been used for classifying 3D kinematic gait features and raw motion data from a drag and drop task [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7].",
+      "sources": [
+        "The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 11",
+        "The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7"
+      ]
+    },
+    {
+      "finding": "**Support Vector Machines (SVMs)**: Demonstrated good accuracy in diagnosing ASD and used to identify microbial predictors from microbiome composition [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 2, 7].",
+      "sources": [
+        "The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 2, 7"
+      ]
+    },
+    {
+      "finding": "**k-Nearest Neighbors (KNN)**: Also shown to have good accuracy in ASD diagnosis [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 2].",
+      "sources": [
+        "The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 2"
+      ]
+    },
+    {
+      "finding": "**Convolutional Neural Networks (CNN)**: Applied to facial images for early stage detection of ASD [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7].",
+      "sources": [
+        "The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7"
+      ]
+    },
+    {
+      "finding": "**Random Forest (RF)**: Used with eye-tracking data to identify distinct eye movement patterns, with metagenomic sequencing data of gut microbiota, and with microbiome composition [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7].",
+      "sources": [
+        "The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7"
+      ]
+    },
+    {
+      "finding": "**Multilayer Perceptron (MLP)**: Used with facial images for early stage detection [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7].",
+      "sources": [
+        "The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7"
+      ]
+    },
+    {
+      "finding": "**Gradient Boosting Machine (GBM)**: Applied to facial images for early stage detection [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7].",
+      "sources": [
+        "The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7"
+      ]
+    },
+    {
+      "finding": "**AdaBoost (AB)**: Used with facial images for early stage detection [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7].",
+      "sources": [
+        "The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7"
+      ]
+    },
+    {
+      "finding": "**Bidirectional Encoder Representations from Transformers (BERT)**: Employed to predict behavioral traits in individuals with ASD through text-based data analysis [source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7].",
+      "sources": [
+        "The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7"
+      ]
+    }
+  ],
+  "extracted_data": [
+    {
+      "value": "81%",
+      "verified": true
+    },
+    {
+      "value": "95.90%",
+      "verified": true
+    },
+    {
+      "value": "96.72%",
+      "verified": true
+    },
+    {
+      "value": "95.08%",
+      "verified": true
+    },
+    {
+      "value": "73%",
+      "verified": true
+    },
+    {
+      "value": "92.31%",
+      "verified": true
+    },
+    {
+      "value": "71.66%",
+      "verified": true
+    },
+    {
+      "value": "72.78%",
+      "verified": true
+    },
+    {
+      "value": "75.23%",
+      "verified": true
+    },
+    {
+      "value": "74.56%",
+      "verified": true
+    },
+    {
+      "value": "88.3%",
+      "verified": true
+    },
+    {
+      "value": "90.0%",
+      "verified": true
+    },
+    {
+      "value": "91.7%",
+      "verified": true
+    },
+    {
+      "value": "95%",
+      "verified": true
+    },
+    {
+      "value": "88%",
+      "verified": true
+    }
+  ],
+  "risk_flags": [],
+  "citations": [
+    {
+      "document": "The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf",
+      "page": 11,
+      "content_preview": "Artificial Intelligence for ASD Diagnosis\nTurk Arch Pediatr 2025; 60(2): 126-140\nclassification of these disorders are essential for implement-\ning targeted interventions and therapies, as the symptom...",
+      "relevance_score": 0.016,
+      "retrieval_method": "hybrid",
+      "explanation": "Retrieved by BOTH semantic (rank #5) and keyword (rank #2). Source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 11."
+    },
+    {
+      "document": "The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf",
+      "page": 1,
+      "content_preview": "TABLE:\nTable with 5 rows and 1 columns. Columns: ABSTRACT.\n\n| ABSTRACT                                                                                        |\n|:--------------------------------------...",
+      "relevance_score": 0.014,
+      "retrieval_method": "hybrid",
+      "explanation": "Retrieved by BOTH semantic (rank #11) and keyword (rank #7). Contains tabular data. Source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 1."
+    },
+    {
+      "document": "The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf",
+      "page": 2,
+      "content_preview": "[...] across various fields, including healthcare, with AI mimicking the biological networks of the human brain and encompassing a wide range of technologies capable of performing cognitive functions....",
+      "relevance_score": 0.01,
+      "retrieval_method": "dense",
+      "explanation": "Retrieved by semantic similarity (rank #1). Source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 2."
+    },
+    {
+      "document": "The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf",
+      "page": 3,
+      "content_preview": "Artificial Intelligence for ASD Diagnosis\nTurk Arch Pediatr 2025; 60(2): 126-140\nreliance on behavioral observation data, which can be sub-\njective and prone to inconsistencies.23 To address these lim...",
+      "relevance_score": 0.01,
+      "retrieval_method": "dense",
+      "explanation": "Retrieved by semantic similarity (rank #2). Source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 3."
+    },
+    {
+      "document": "The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf",
+      "page": 7,
+      "content_preview": "Artificial Intelligence for ASD Diagnosis\nTurk Arch Pediatr 2025; 60(2): 126-140\nAuthor\nSample Size and Age\nData Type\nAIgorithms and Accuracy\nClinical Aim\nMeng et\u00a0al, 202333\n161 children (117 ASD, \n44...",
+      "relevance_score": 0.01,
+      "retrieval_method": "dense",
+      "explanation": "Retrieved by semantic similarity (rank #3). Source: The Role of Artificial Intelligence for Early Diagnostic Tools of Autism.pdf.pdf, page 7."
+    }
+  ],
+  "metadata": {
+    "model": "gemini-2.5-flash",
+    "chunks_used": 5,
+    "validation_performed": true
+  }
+}
